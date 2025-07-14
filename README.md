@@ -3,7 +3,8 @@
 🎨 Un desarrollador web entusiasta del diseño moderno, atractivo y funcional.  
 💻 Me especializo en la creación de sitios web, desde landing pages hasta tiendas en línea y paneles administrativos.  
 🚀 Siempre en crecimiento, explorando y aplicando nuevas tecnologías.  
-📫 Puedes contactarme en felipedev@gmail.com   
+📫 Puedes contactarme en fneira484@gmail.com
+
 
 ## 🛠️ Tecnologías que uso
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
